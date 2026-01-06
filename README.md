@@ -1,21 +1,21 @@
-Olá — eu sou Vitor 👋  
-────────────────────────────
+<h1 align="center">Olá — eu sou oBart 👋</h1>
 
-Desenvolvedor focado em tecnologia, web e IA, transformando ideias em soluções práticas com código limpo e funcional.
+<p align="center">
+Desenvolvedor focado em IA, automações e web — transformando ideias em soluções práticas.
+</p>
 
-────────────────────────────
+---
 
-👤 Sobre mim
+## 👤 Sobre mim
 
-• Desenvolvimento web e automações  
-• Integrações com IA (ChatGPT, Gemini, APIs)  
-• Perfil técnico, foco em lógica, estrutura e execução  
-• Projetos próprios, produtos digitais e serviços  
-• Aprendizado constante na prática  
+- 🤖 Foco em **Inteligência Artificial e automações**
+- 🧠 Perfil técnico, gosto de lógica, estrutura e sistemas
+- 🛠️ Projetos próprios, produtos digitais e bots
+- 📚 Aprendendo sempre na prática, construindo e testando
 
-────────────────────────────
+---
 
-🛠️ Tech stack — Skills principais
+## 🛠️ Tech stack — Skills principais
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
@@ -26,24 +26,25 @@ Desenvolvedor focado em tecnologia, web e IA, transformando ideias em soluções
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord)
 
-────────────────────────────
+---
 
-🚀 Projetos em destaque
+## 🚀 Projetos
 
-• Sistemas e automações com IA  
-• Sites, landing pages e aplicações web  
-• Criação e estruturação de servidores Discord  
+- 🤖 Automações e sistemas com IA
+- 🌐 Sites, landing pages e apps web
+- 💬 Bots e servidores Discord
 
-Se quiser ver algum projeto com prioridade, é só me avisar que organizo o repositório certinho.
+Se quiser ver algum projeto com prioridade, me chama que organizo o repositório certinho.
 
-────────────────────────────
+---
 
-📬 Contato
+## 📬 Contato
 
-Email: seuemail@email.com  
-GitHub: seuusuario  
+- Email: seuemail@email.com  
+- GitHub: @seuusuario  
 
-────────────────────────────
+---
 
-Obrigado pela visita 🚀  
-Código simples, foco em resultado e evolução constante.
+<p align="center">
+🚀 Código limpo, foco em resultado e evolução constante.
+</p>
