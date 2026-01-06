@@ -22,7 +22,7 @@
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
@@ -57,7 +57,7 @@ Me chama que eu organizo o README do projeto com instruções certinhas.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70">
 </p>
 
 <p align="center">
