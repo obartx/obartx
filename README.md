@@ -57,7 +57,7 @@ Me chama que eu organizo o README do projeto com instruções certinhas.
 ---
 
 <p align="center">
-  <img src="[[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGp2dTQ1amRyYWYweXNtb2JrM2RyZ244MDJtb2N5Ym9iNmgxZnVzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif](https://giphy.com/explore/programacao))" width="70">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70">
 </p>
 
 <p align="center">
