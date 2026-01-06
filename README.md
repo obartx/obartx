@@ -1,8 +1,17 @@
 <h1 align="center">Olá — eu sou oBart 👋</h1>
 
 <p align="center">
-🤖 Desenvolvedor focado em <b>IA, automações e web</b><br>
-transformando ideias em soluções práticas com código limpo e responsabilidade.
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=18&
+    pause=1000&
+    color=58A6FF&
+    center=true&
+    vCenter=true&
+    width=700&
+    lines=🤖+IA+%7C+Automações+%7C+Web;
+    Desenvolvedor+focado+em+soluções+inteligentes;
+    Transformando+ideias+em+soluções+práticas" />
 </p>
 
 ---
@@ -52,13 +61,13 @@ Me chama que eu organizo o README do projeto com instruções certinhas.
 
 ## 📬 Como me encontrar
 
-- 📧 Email: vitorhscastilho@gmail.com 
-- 💻 GitHub: @obartx  
+- 📧 Email: seuemail@email.com  
+- 💻 GitHub: @seuusuario  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260">
 </p>
 
 <p align="center">
