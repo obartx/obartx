@@ -1,7 +1,7 @@
 <h1 align="center">Olá — eu sou oBart 👋</h1>
 
 <p align="center">
-Desenvolvedor focado em IA, automações e web — transformando ideias em soluções práticas.
+🤖 Desenvolvedor focado em IA, automações e web — transformando ideias em soluções práticas.
 </p>
 
 ---
@@ -15,11 +15,11 @@ Desenvolvedor focado em IA, automações e web — transformando ideias em solu�
 
 ---
 
-## 🛠️ Tech stack — Skills principais
+## 🤖 Tech stack — IA e Desenvolvimento
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
@@ -31,10 +31,10 @@ Desenvolvedor focado em IA, automações e web — transformando ideias em solu�
 ## 🚀 Projetos
 
 - 🤖 Automações e sistemas com IA
-- 🌐 Sites, landing pages e apps web
-- 💬 Bots e servidores Discord
+- 🌐 Sites, landing pages e aplicações web
+- 💬 Bots e estruturação de servidores Discord
 
-Se quiser ver algum projeto com prioridade, me chama que organizo o repositório certinho.
+Se quiser ver algum projeto com prioridade, é só me chamar que eu organizo o repositório certinho.
 
 ---
 
@@ -47,4 +47,8 @@ Se quiser ver algum projeto com prioridade, me chama que organizo o repositório
 
 <p align="center">
 🚀 Código limpo, foco em resultado e evolução constante.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
