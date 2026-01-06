@@ -52,7 +52,7 @@ Me chama que eu organizo o README do projeto com instruções certinhas.
 ## 📬 Como me encontrar
 
 - 📧 Email: vitorhscastilho@gmail.com  
-- 💻 GitHub: @obartx  
+- 💻 GitHub: `@obartx`  
 
 ---
 
